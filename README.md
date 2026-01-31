@@ -5,14 +5,14 @@ Programs
 • Input/output programs<br>
 • List based programs<br>
 • Simple logic programs<br>
-## Files
+# Files
 • Greater.py<br>
 • fruits.py<br>
 • SPC ARENA.py<br>
-## Purpose
+# Purpose
 Practice Python basics and improve logic building.
-## Language
+# Language
 • Python
-## Author
+# Author
    Krish Sharma<br>
    B.Tech CSE (1st Year)
