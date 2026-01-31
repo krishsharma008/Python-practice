@@ -1,18 +1,18 @@
 ## Python Practice
 This repository contains my Python practice programs.
 Programs
-• Basic Python programs
-• Input/output programs
-• List based programs
-• Simple logic programs
+• Basic Python programs<br>
+• Input/output programs<br>
+• List based programs<br>
+• Simple logic programs<br>
 ## Files
-• Greater.py
-• fruits.py
-• SPC ARENA.py
+• Greater.py<br>
+• fruits.py<br>
+• SPC ARENA.py<br>
 ## Purpose
 Practice Python basics and improve logic building.
-Language
-Python
+## Language
+• Python
 ## Author
-Krish Sharma<br>
-B.Tech CSE (1st Year)
+   Krish Sharma<br>
+   B.Tech CSE (1st Year)
