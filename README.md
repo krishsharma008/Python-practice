@@ -14,5 +14,5 @@ Practice Python basics and improve logic building.
 Language
 Python
 ## Author
-Krish Sharma
+Krish Sharma<br>
 B.Tech CSE (1st Year)
