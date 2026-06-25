@@ -15,4 +15,4 @@ Practice Python basics and improve logic building.
 • Python
 # Author
    Krish Sharma<br>
-   B.Tech CSE (1st Year)
+   B.Tech CSE (2nd Year)
